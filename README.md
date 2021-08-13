@@ -31,3 +31,14 @@ To generate your API key, visit [Coinmarketcap](https://coinmarketcap.com/api)
 
 ## Program Screenshots
 
+> Latest Marketcap details
+
+<img src='https://github.com/harshvs4/Data-Extraction/blob/main/images/latest_marketcap.PNG' widht='450px' height='500px'>
+
+> Details of all the Coins in the Market
+
+<img src='https://github.com/harshvs4/Data-Extraction/blob/main/images/all_coins.PNG' widht='450px' height='500px'>
+
+> Cryptocurrencies Graph
+
+<img src='https://github.com/harshvs4/Data-Extraction/blob/main/images/bitcoin_graph.PNG' widht='450px' height='500px'>
