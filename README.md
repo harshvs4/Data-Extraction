@@ -18,12 +18,12 @@ devtools::install_github("amrrs/coinmarketcapr")
 ## Dependencies
 
  ```coinmarketcapr``` depends on the following packages:
-  * jsonlite
-  * curl
-  * ggplot2
-  * data.table
-  * cli
-  * crayon
+  * ```jsonlite```-In addition to converting JSON data from/to R objects, 'jsonlite' contains functions to stream, validate, and prettify JSON data.
+  * ```curl```-It is a command line tool to transfer data to or from a server, using any of the supported protocols 
+  * ```ggplot2```-It is a system for declaratively creating graphics
+  * ```data.table```- It is widely used for fast aggregation of large datasets, low latency add/update/remove of columns, quicker ordered joins, and a fast file reader.
+  * ```cli```-A suite of tools to build attractive command line interfaces ('CLIs')
+  * ```crayon```-With crayon it is easy to add color to terminal output, create styles for notes, warnings, errors; and combine styles.
 
 ## External links
 
